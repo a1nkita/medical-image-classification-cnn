@@ -22,3 +22,5 @@ To classify medical images using deep learning and analyze optimizer performance
 - Transfer learning improves convergence
 - RMSprop performed best in this dataset
 - Hyperparameter tuning significantly impacts performance
+  Open in Colab :
+  https://colab.research.google.com/drive/1U88kXV_kjVReBzt0Xb-NUHMVOgrQj3cy?usp=drive_link
